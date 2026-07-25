@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.maulanayuda.twa",
+    "sha256_cert_fingerprints": ["4F:21:16:A8:95:24:DD:8A:E0:E9:80:E0:2A:0C:27:7F:2B:F7:B1:14:CF:28:AD:05:28:FF:AD:A5:45:DF:1D:CE"]
+  }
+}]
